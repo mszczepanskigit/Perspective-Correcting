@@ -1,6 +1,6 @@
 README
 
-# Perspective-Correcting
+# Perspective-Correction
 Program to correct perspective of grabbed area in given image. You can see how it works with apple.jpg and new_apple.jpg images.
 
 perspective.py is the usable file from the command line.
